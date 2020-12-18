@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:fsf_zoller_slider/Resources/Private/Language/locallang_db" date="2020-12-14T15:59:17Z" product-name="fsf_zoller_slider">
+		<header/>
+		<body>
+			<trans-unit id="tx_fsfzollerslider_domain_model_slider" resname="tx_fsfzollerslider_domain_model_slider">
+				<source>Slider</source>
+			</trans-unit>
+			<trans-unit id="tx_fsf_zoller_slider_zollerslider.name" resname="tx_fsf_zoller_slider_zollerslider.name">
+				<source>Zoller Slider</source>
+			</trans-unit>
+			<trans-unit id="tx_fsf_zoller_slider_zollerslider.description" resname="tx_fsf_zoller_slider_zollerslider.description">
+				<source></source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
