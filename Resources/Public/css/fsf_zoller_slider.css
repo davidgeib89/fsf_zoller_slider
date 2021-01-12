@@ -1,0 +1,24 @@
+.fsf-zoller-slider {
+	padding-right:200px;
+	padding-left:200px;
+	padding-top:150px;
+	padding-bottom:120px;
+}
+
+.fsf-zoller-slider .slider-image {
+	width: 100%;
+	height: auto;
+}
+
+.fsf-zoller-slider .slider-container-slider {
+	width: 100%;
+}
+
+@media (max-width:1200px) {
+	.fsf-zoller-slider {
+		padding-right:60px;
+		padding-left:60px;
+		padding-top:50px;
+		padding-bottom:75px;
+	}
+}

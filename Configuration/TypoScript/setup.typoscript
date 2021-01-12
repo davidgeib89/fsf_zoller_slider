@@ -57,3 +57,13 @@ plugin.tx_fsfzollerslider._CSS_DEFAULT_STYLE (
         color:green;
     }
 )
+
+page{
+	includeCSS{
+		fsfzollerslidercss =  EXT:fsf_zoller_slider/Resources/Public/css/fsf_zoller_slider.css
+      
+	}
+	includeJSFooterlibs {
+        fsfzollersliderjs =  EXT:fsf_zoller_slider/Resources/Public/js/main.js
+    }
+}

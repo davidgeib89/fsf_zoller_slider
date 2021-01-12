@@ -42,5 +42,6 @@ class SliderController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionControlle
     {
         $sliders = $this->sliderRepository->findAll();
         $this->view->assign('sliders', $sliders);
+        $this->view->assign('rand', md5(rand() + rand()));
     }
 }
