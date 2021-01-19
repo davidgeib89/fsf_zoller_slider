@@ -24,7 +24,7 @@ call_user_func(
                     elements {
                         zollerslider {
                             iconIdentifier = fsf_zoller_slider-plugin-zollerslider
-                            title = LLL:EXT:fsf_zoller_slider/Resources/Private/Language/locallang_db.xlf:tx_fsf_zoller_slider_zollerslider.name
+                            title = Slider
                             description = LLL:EXT:fsf_zoller_slider/Resources/Private/Language/locallang_db.xlf:tx_fsf_zoller_slider_zollerslider.description
                             tt_content_defValues {
                                 CType = list
