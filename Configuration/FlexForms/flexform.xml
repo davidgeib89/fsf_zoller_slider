@@ -21,7 +21,7 @@
                                 <el>
                                     <headline>
                                         <TCEforms>
-                                            <label>Bildtitel</label>
+                                            <label>Bildtitel (nicht im Frontend sichtbar)</label>
                                             <config>
                                                 <type>input</type>
                                                 <eval>trim</eval>
