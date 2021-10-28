@@ -25,7 +25,7 @@
 
 .fsf-zoller-slider .slick-dots {
     position: absolute;
-    bottom: -21px;
+    bottom: 60px;
     display: block;
     width: 100%;
     padding: 0;
@@ -36,5 +36,7 @@
 
 .slide-titel {
     margin-top: 15px;
-    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 500;
 }
