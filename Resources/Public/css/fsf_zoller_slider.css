@@ -1,35 +1,40 @@
 .fsf-zoller-slider {
-	padding-right:200px;
-	padding-left:200px;
-	padding-top:150px;
-	padding-bottom:120px;
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-top: 150px;
+    padding-bottom: 120px;
 }
 
 .fsf-zoller-slider .slider-image {
-	width: 100%;
-	height: auto;
+    width: 100%;
+    height: auto;
 }
 
 .fsf-zoller-slider .slider-container-slider {
-	width: 100%;
+    width: 100%;
 }
 
-@media (max-width:1200px) {
-	.fsf-zoller-slider {
-		padding-right:60px;
-		padding-left:60px;
-		padding-top:50px;
-		padding-bottom:75px;
-	}
+@media (max-width: 1200px) {
+    .fsf-zoller-slider {
+        padding-right: 60px;
+        padding-left: 60px;
+        padding-top: 50px;
+        padding-bottom: 75px;
+    }
 }
 
 .fsf-zoller-slider .slick-dots {
-	position: absolute;
-	bottom: -21px;
-	display: block;
-	width: 100%;
-	padding: 0;
-	margin: 0;
-	list-style: none;
-	text-align: center;
-  }
+    position: absolute;
+    bottom: -21px;
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+}
+
+.slide-titel {
+    margin-top: 15px;
+    font-weight: 600;
+}
